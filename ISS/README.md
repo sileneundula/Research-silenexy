@@ -44,3 +44,7 @@ Each chain has the following options:
 ## 2.3 MiniaturePoW
 
 nano-inspired proof-of-work using an unsigned 64-bit integer is employed against a certain threshold to protect against spam and ddos attacks. These can easily be verified by the user making sure the piece has had enough proof-of-work put in.
+
+## 2.4 Proof-of-History Consensus
+
+Proof-of-History Consensus Algorithm is used to ensure timestamps are valid. Due to proof-of-history's solid foundation on timestamping, it proves that the time and date and certain pieces can easily be retrieved and in sequential order. This is implied more-so in Lemur than it is in Immutable Storage Solution.
