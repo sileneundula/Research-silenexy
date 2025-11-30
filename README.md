@@ -11,3 +11,6 @@ Research covered by silene (named after the plant Silene Undula, a shamanistic p
 - [X] **ShulginSigning:** A Secure, Post-Quantum, Long-Term, Sustainable Signing Algorithm based on ED25519/ED448 and SPHINCS+ (SHAKE256) (Level 5) with hedged signatures and small public key / secret key sizes. It is named after Alexander Shulgin, the creator of TIHKAL and PIHKAL. It's security is based around well-known assumptions in hash functions and elliptic curves.
 
 - [X] **EsphandAuth:** A type of authentication process.
+
+- [X] **Consensus**: Consensus Mechanisms
+  - [X] **Delegated Proof of Work (DPOW)**: Delegeated Proof of Work based on delegate's work for delegate using nodes who earn rewards/incentives based on delegate.  
