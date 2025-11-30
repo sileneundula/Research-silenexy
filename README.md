@@ -13,4 +13,7 @@ Research covered by silene (named after the plant Silene Undula, a shamanistic p
 - [X] **EsphandAuth:** A type of authentication process.
 
 - [X] **Consensus**: Consensus Mechanisms
-  - [X] **Delegated Proof of Work (DPOW)**: Delegeated Proof of Work based on delegate's work for delegate using nodes who earn rewards/incentives based on delegate.  
+  - [X] **Delegated Proof of Work (DPOW)**: Delegeated Proof of Work based on delegate's work for delegate using nodes who earn rewards/incentives based on delegate.
+    - [X] **"DPOW-5"**: Selection of Five Delegates proof of work is done for.
+      - [ ] \[Code] Implemented Delegated Proof of Work
+    - [X] **DPOW-1**: Selection of Single Delegate proof of work is done for.  
